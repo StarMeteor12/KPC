@@ -1,3 +1,20 @@
 h1.head1{
     word-spacing: 0,5em;
 }
+p.paragraf1{
+    letter-spacing: -0.03em;
+}
+p.paragraf3{
+    letter-spacing: 0.3em;
+}
+p.paragraf4{
+    word-spacing: -0.3em;
+}
+p.paragraf5{
+    word-spacing: 0.3em;
+}
+p.paragraf6{
+    letter-spacing: 0.2em; 
+    word-spacing: 0.5em;
+    line-height: 2.4em;
+}
